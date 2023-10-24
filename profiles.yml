@@ -3,8 +3,8 @@ jaffle_shop:
     dev:
       catalog: '2'
       host: adb-6202383808415066.6.azuredatabricks.net
-      http_path: sql/protocolv1/o/6202383808415066/1208-164152-plums54
-      schema: DBT - Test
+      http_path: sql/1.0/warehouses/f0ef9c51dab7df22
+      schema: dbt_test 
       threads: 1
       token: dapid84e70a12af434e2c20bc8254afb2324
       type: databricks
