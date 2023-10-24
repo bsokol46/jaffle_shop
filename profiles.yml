@@ -1,7 +1,7 @@
 jaffle_shop:
   outputs:
     dev:
-      catalog: '2'
+      catalog: null
       host: adb-6202383808415066.6.azuredatabricks.net
       http_path: sql/1.0/warehouses/f0ef9c51dab7df22
       schema: dbt_test 
